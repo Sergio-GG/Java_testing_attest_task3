@@ -1,0 +1,33 @@
+510  [main] INFO  BookingServiceTest - Test checkBook is started
+512  [main] DEBUG BookingServiceTest - Composing spy for debug
+2277 [main] DEBUG BookingServiceTest - Composing spy for debug complete
+2503 [main] INFO  BookingServiceTest - Test checkBook is started
+2504 [main] DEBUG BookingServiceTest - Composing spy for debug
+2508 [main] DEBUG BookingServiceTest - Creating spy for debug complete
+2548 [main] INFO  BookingServiceTest - Test checkTime is started
+2549 [main] DEBUG BookingServiceTest - Composing spy for debug
+2550 [main] DEBUG BookingServiceTest - Creating spy complete
+429  [main] INFO  BookingServiceTest - Test checkCantBookException is started
+431  [main] DEBUG BookingServiceTest - Composing spy for debug
+2236 [main] DEBUG BookingServiceTest - Composing spy for debug complete
+2406 [main] INFO  BookingServiceTest - Test checkCantBookException complete
+2455 [main] INFO  BookingServiceTest - Test checkBook is started
+2456 [main] DEBUG BookingServiceTest - Composing spy for debug
+2460 [main] DEBUG BookingServiceTest - Creating spy for debug complete
+2472 [main] INFO  BookingServiceTest - Test checkBook complete
+2486 [main] INFO  BookingServiceTest - Test checkTime is started
+2487 [main] DEBUG BookingServiceTest - Composing spy for debug
+2488 [main] DEBUG BookingServiceTest - Creating spy complete
+2495 [main] INFO  BookingServiceTest - Test checkTime complete
+403  [main] INFO  BookingServiceTest - Test checkCantBookException is started
+409  [main] DEBUG BookingServiceTest - Composing spy for debug
+2407 [main] DEBUG BookingServiceTest - Composing spy for debug complete
+3359 [main] INFO  BookingServiceTest - Test checkCantBookException complete
+3414 [main] INFO  BookingServiceTest - Test checkBook is started
+3414 [main] DEBUG BookingServiceTest - Composing spy for debug
+3415 [main] DEBUG BookingServiceTest - Creating spy for debug complete
+3430 [main] INFO  BookingServiceTest - Test checkBook complete
+3437 [main] INFO  BookingServiceTest - Test checkTime is started
+3437 [main] DEBUG BookingServiceTest - Composing spy for debug
+3438 [main] DEBUG BookingServiceTest - Creating spy complete
+3446 [main] INFO  BookingServiceTest - Test checkTime complete
